@@ -1,0 +1,15 @@
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\UC_4_EmpWageUsingSwitch.exe
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\UC_4_EmpWageUsingSwitch.deps.json
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\UC_4_EmpWageUsingSwitch.runtimeconfig.json
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\UC_4_EmpWageUsingSwitch.runtimeconfig.dev.json
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\UC_4_EmpWageUsingSwitch.dll
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\ref\UC_4_EmpWageUsingSwitch.dll
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\bin\Debug\net5.0\UC_4_EmpWageUsingSwitch.pdb
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.AssemblyInfoInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.AssemblyInfo.cs
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.dll
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\ref\UC_4_EmpWageUsingSwitch.dll
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.pdb
+C:\Users\Aftaab\Source\Repos\UC_4_EmpWageUsingSwitch\UC_4_EmpWageUsingSwitch\obj\Debug\net5.0\UC_4_EmpWageUsingSwitch.genruntimeconfig.cache

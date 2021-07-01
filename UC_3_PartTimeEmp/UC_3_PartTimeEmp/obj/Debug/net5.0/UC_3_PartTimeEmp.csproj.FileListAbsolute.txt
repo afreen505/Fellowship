@@ -1,0 +1,4 @@
+C:\Users\Aftaab\Source\Repos\UC_3_PartTimeEmp\UC_3_PartTimeEmp\obj\Debug\net5.0\UC_3_PartTimeEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftaab\Source\Repos\UC_3_PartTimeEmp\UC_3_PartTimeEmp\obj\Debug\net5.0\UC_3_PartTimeEmp.AssemblyInfoInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_3_PartTimeEmp\UC_3_PartTimeEmp\obj\Debug\net5.0\UC_3_PartTimeEmp.AssemblyInfo.cs
+C:\Users\Aftaab\Source\Repos\UC_3_PartTimeEmp\UC_3_PartTimeEmp\obj\Debug\net5.0\UC_3_PartTimeEmp.csproj.CoreCompileInputs.cache

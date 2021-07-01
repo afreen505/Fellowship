@@ -1,0 +1,13 @@
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\bin\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.exe
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\bin\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.deps.json
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\bin\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.runtimeconfig.json
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\bin\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.runtimeconfig.dev.json
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\bin\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.dll
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\bin\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.pdb
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.csproj.AssemblyReference.cache
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.AssemblyInfoInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.AssemblyInfo.cs
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.csproj.CoreCompileInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.dll
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.pdb
+C:\Users\Aftaab\Source\Repos\UC_5_EmpWagesOfMonth\UC_5_EmpWagesOfMonth\obj\Debug\netcoreapp3.1\UC_5_EmpWagesOfMonth.genruntimeconfig.cache

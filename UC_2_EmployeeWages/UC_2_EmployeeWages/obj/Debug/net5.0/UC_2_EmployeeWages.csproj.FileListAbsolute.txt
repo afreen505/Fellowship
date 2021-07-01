@@ -1,0 +1,15 @@
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\UC_2_EmployeeWages.exe
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\UC_2_EmployeeWages.deps.json
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\UC_2_EmployeeWages.runtimeconfig.json
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\UC_2_EmployeeWages.runtimeconfig.dev.json
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\UC_2_EmployeeWages.dll
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\ref\UC_2_EmployeeWages.dll
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\bin\Debug\net5.0\UC_2_EmployeeWages.pdb
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.AssemblyInfoInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.AssemblyInfo.cs
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.csproj.CoreCompileInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.dll
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\ref\UC_2_EmployeeWages.dll
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.pdb
+C:\Users\Aftaab\Source\Repos\UC_2_EmployeeWages\UC_2_EmployeeWages\obj\Debug\net5.0\UC_2_EmployeeWages.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\UC_6LimitationOfWorkingHrs.exe
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\UC_6LimitationOfWorkingHrs.deps.json
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\UC_6LimitationOfWorkingHrs.runtimeconfig.json
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\UC_6LimitationOfWorkingHrs.runtimeconfig.dev.json
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\UC_6LimitationOfWorkingHrs.dll
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\ref\UC_6LimitationOfWorkingHrs.dll
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\bin\Debug\net5.0\UC_6LimitationOfWorkingHrs.pdb
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.csproj.AssemblyReference.cache
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.AssemblyInfoInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.AssemblyInfo.cs
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.csproj.CoreCompileInputs.cache
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.dll
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\ref\UC_6LimitationOfWorkingHrs.dll
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.pdb
+C:\Users\Aftaab\Source\Repos\UC_6LimitationOfWorkingHrs\UC_6LimitationOfWorkingHrs\obj\Debug\net5.0\UC_6LimitationOfWorkingHrs.genruntimeconfig.cache
